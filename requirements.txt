@@ -1,0 +1,2 @@
+pypiserver==1.2.1 --hash=sha256:33150702f61eb70201978b809ebce0b90b54ee6cb936ebb4cf38062c283dc08a \
+                  --hash=sha256:3282fb7aba6fec16f68106426fb696e37f8f83086edaf9ca17c12afc5493c15b
