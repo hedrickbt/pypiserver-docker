@@ -1,4 +1,4 @@
-FROM python:3.6.5
+FROM python:3.6.8
 
 COPY requirements.txt /tmp/requirements.txt
 RUN pip install --require-hashes -r /tmp/requirements.txt \
